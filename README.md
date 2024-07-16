@@ -1,2 +1,2 @@
-# Madhav-e-commerce-sales-dashboard
+#Power BI-dashboard
 This is a power bi end to end project
